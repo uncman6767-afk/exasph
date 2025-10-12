@@ -73,7 +73,7 @@ templatefooter.innerHTML = `
       <div style="display: flex; align-items: center; gap: 12px;">
         <img loading="lazy" src="/assets/img/duck.webp" alt="DuckMath" width="40" height="40" style="border-radius: 6px;"/>
         <div>
-          <a href="/" style="font-weight: 700; font-size: 1.05rem; text-decoration: none; color: inherit;">DuckMath.org — Unblocked Games For School</a>
+          <a href="/" style="font-weight: 700; font-size: 1.05rem; text-decoration: none; color: inherit;">MikeMatj — Math Lessons</a>
           <div style="opacity: 0.9; font-size: 0.95rem;">1,000,000+ active users since 2022</div>
         </div>
       </div>
@@ -113,13 +113,13 @@ templatefooter.innerHTML = `
       </div>
       <div>
         <div style="font-weight: 600; margin-bottom: 8px;">Our Manifesto</div>
-        <div style="opacity: 0.9; font-size: 0.95rem;">Gaming is a fundamental right. We believe everyone deserves access to quality entertainment, regardless of network restrictions. We build bridges, not walls. We foster community, creativity, and fair competition. We stand for accessible gaming, player privacy, and the freedom to play.</div>
+        <div style="opacity: 0.9; font-size: 0.95rem;">Math can be difficult, and that's why MikeMath was established; to help students worldwide learn about math.</div>
       </div>
     </div>
 
     <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; opacity: 0.85; font-size: 0.9rem; padding-top: 8px;">
       <div>© <span id="footer-year"></span> DuckMath.org</div>
-      <div>Built for fast, accessible, unblocked gaming.</div>
+      <div>Built for fast, accessible, helpful lessons.</div>
     </div>
   </div>
 </footer>
