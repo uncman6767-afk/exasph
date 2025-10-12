@@ -17,9 +17,9 @@ templatetopnav.innerHTML = `
 <a href="/">LESSONS</a>
 <div class="centered-fixed-blur"></div>
 <div class="centered-fixed">
-     <img src="/assets/img/scaled_goose_pixel.png" onmouseover="spin(this)"
-    onmouseout="unspin(this)" alt="Duck" onClick="home()" width="40px" height="40px" />
-      <span id="duckmath-header" class="duckmath-header" onmouseenter="showchildren(this);" onmouseleave="hidechildren(this);">DuckMath Unblocked Games</span>
+     <img src="/assets/img/duck.webp" onmouseover="spin(this)"
+    onmouseout="unspin(this)" alt="Mike" onClick="home()" width="40px" height="40px" />
+      <span id="duckmath-header" class="duckmath-header" onmouseenter="showchildren(this);" onmouseleave="hidechildren(this);">Math Lessons with Mike</span>
 </div>
 
 
