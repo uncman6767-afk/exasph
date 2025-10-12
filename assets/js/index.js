@@ -71,10 +71,10 @@ templatefooter.innerHTML = `
   <div style="max-width: 1200px; margin: 0 auto; display: grid; gap: 16px;">
     <div style="display: flex; align-items: center; justify-content: space-between; gap: 16px; flex-wrap: wrap;">
       <div style="display: flex; align-items: center; gap: 12px;">
-        <img loading="lazy" src="/assets/img/duck.webp" alt="DuckMath" width="40" height="40" style="border-radius: 6px;"/>
+        <img loading="lazy" src="/assets/img/duck.webp" alt="MikeMath" width="40" height="40" style="border-radius: 6px;"/>
         <div>
-          <a href="/" style="font-weight: 700; font-size: 1.05rem; text-decoration: none; color: inherit;">MikeMatj — Math Lessons</a>
-          <div style="opacity: 0.9; font-size: 0.95rem;">1,000,000+ active users since 2022</div>
+          <a href="/" style="font-weight: 700; font-size: 1.05rem; text-decoration: none; color: inherit;">MikeMath — Math Lessons</a>
+          <div style="opacity: 0.9; font-size: 0.95rem;">New lessons every day!</div>
         </div>
       </div>
       <div style="max-width: 680px; opacity: 0.9; font-size: 0.95rem;">
