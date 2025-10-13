@@ -118,7 +118,7 @@ templatefooter.innerHTML = `
     </div>
 
     <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; opacity: 0.85; font-size: 0.9rem; padding-top: 8px;">
-      <div>© <span id="footer-year"></span> DuckMath.org</div>
+      <div>© <span id="footer-year"></span> mathwith-mikemorse.pages.dev</div>
       <div>Built for fast, accessible, helpful lessons.</div>
     </div>
   </div>
